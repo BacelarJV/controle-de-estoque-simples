@@ -1,0 +1,11 @@
+{
+    "name": "controle-de-estoque-simples",
+    "private": true,
+    "workspaces": [
+        "apps/*"
+    ],
+    "scripts": {
+        "dev:api": "npm run start:dev -w api",
+        "dev:web": "npm run dev -w web"
+    }
+}
