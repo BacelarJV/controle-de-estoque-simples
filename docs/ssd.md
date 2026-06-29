@@ -85,3 +85,46 @@ erDiagram
     }
 
     PRODUCT ||--o{ STOCK_MOVEMENT : "movements"
+    ---
+
+## 🎨 5. Design Tokens
+
+Os Design Tokens definem a identidade visual do sistema e servirão como referência para o desenvolvimento do Frontend em React.
+
+### Paleta de Cores
+
+| Elemento | Cor | Hexadecimal |
+|----------|-----|-------------|
+| Cor Primária | Azul | #2563EB |
+| Cor Secundária | Verde | #16A34A |
+| Fundo | Cinza Claro | #F8FAFC |
+| Texto Principal | Cinza Escuro | #1E293B |
+| Cor de Erro | Vermelho | #DC2626 |
+| Cor de Aviso | Amarelo | #F59E0B |
+
+### Tipografia
+
+| Elemento | Fonte |
+|----------|-------|
+| Principal | Inter |
+| Alternativa | Roboto |
+| Monoespaçada | Fira Code |
+
+### Componentes
+
+- Botões com cantos arredondados (8px)
+- Cards com sombra leve
+- Ícones no estilo Material Design
+- Layout responsivo utilizando Tailwind CSS
+- Menu lateral para Desktop
+- Menu inferior (Bottom Navigation) para Mobile
+
+### Responsividade
+
+O protótipo foi projetado para:
+
+- Desktop
+- Tablet
+- Smartphone
+
+seguindo o conceito **Mobile First**.

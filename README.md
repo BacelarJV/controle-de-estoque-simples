@@ -10,6 +10,14 @@ O sistema ajuda pequenos negócios a evitar perdas, controlar entradas e saídas
 - React
 - PostgreSQL
 
+## 🎨 Protótipo
+
+Protótipo desenvolvido utilizando Google Stitch.
+
+**Link do protótipo:**
+
+https://stitch.withgoogle.com/projects/3338370647425461525
+
 ## 📂 Documentação
 A documentação do projeto está disponível na pasta `/docs`:
 
